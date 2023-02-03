@@ -1,0 +1,10 @@
+.loader {
+    position: absolute;
+    top: 45%;
+    left: 45%;
+}
+
+.sidebar {
+    border: coral 1px solid;
+    padding: 10px;
+}

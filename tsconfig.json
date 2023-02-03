@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "noImplicitAny": true,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "outDir": "web/media/js/gen/",
+      "sourceMap": true,
+      "target": "es6",
+      "lib": [
+        "dom",
+        "es2015",
+        "es5",
+        "es6"
+      ]
+    },
+    "include": ["app/ts/**/*"],
+    "exclude": ["node_modules", "**/*.spec.ts"]
+  }
